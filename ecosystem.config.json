@@ -1,0 +1,13 @@
+{
+    "apps": [
+      {
+        "name": "react-app",
+        "script": "serve",
+        "args": "-s build",
+        "env": {
+          "PORT": 3000
+        }
+      }
+    ]
+  }
+  
